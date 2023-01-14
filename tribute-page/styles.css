@@ -1,0 +1,38 @@
+.head{  
+    margin: 10px auto;
+    text-align: center;
+    padding: 1px;
+  }
+  
+  #image{
+    max-width:100%;
+    height:auto;
+    align-items:center;
+  }
+  img{
+    display:block;
+    margin: auto;
+  }
+  
+  body{
+    background-color:#eee;
+    width: 60%;
+    margin: auto;
+  }
+  
+  h1{
+    font-weight: bold;
+  }
+  #img-div{
+    background-color:white;
+        
+  }
+  .bold{
+    font-weight: bold;
+  }
+  #img-caption{
+    margin: 1%;
+    text-align: center;
+    padding: 1%;
+    
+  }
