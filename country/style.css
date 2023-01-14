@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 100vh;
+    margin: 0px;
+    background-image: url(World_Map_\(political\).svg);
+}
+
+.card{
+
+border-radius: 10px;
+background-color: none;
+align-items: center;
+width: 100%;
+max-width: 420px;
+padding: 2em;
+background-image: linear-gradient(rgba(255, 255, 0, 0.74), rgba(255, 0, 0, 0.555));
+
+}
+
+input, button{
+    border-radius: 5px;
+    padding: 0.8em;
+    
+
+}
+.input-country {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
