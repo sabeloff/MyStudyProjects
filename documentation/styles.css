@@ -1,0 +1,38 @@
+@media (max-width: 768px) {
+    #ukraine {
+      background-color:rgb(255, 255, 177);
+    }
+  }
+  body{
+    
+    line-height: 1.5;
+    margin: auto;
+   
+    width: 50%;
+   
+  }
+  
+  main{
+    display:block;
+    max-width:600px;
+    
+  }
+  #main-doc{
+    position:absolute;
+    margin-left:150px;
+  }
+  #navbar{
+    position:fixed;
+  }
+  section{
+    margin: 10px;
+  }
+  header{
+    font-weight:bold;
+    
+  }
+  
+  #navigate{
+    justify-content:center;
+    display:flex;
+  }
